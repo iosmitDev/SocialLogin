@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("test")
-       print("New")
+       print("New1")
         addition(5, 7)
     }
     func addition(_ number1: Int, _ number2: Int){
