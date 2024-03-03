@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-                
+                print("test")
         addition(5, 7)
     }
     func addition(_ number1: Int, _ number2: Int){
